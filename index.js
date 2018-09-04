@@ -1,1 +1,1 @@
-boardMember
+function boardMember
